@@ -7,3 +7,6 @@ release.properties
 .idea
 dropwizard-websockets.iml
 dependency-reduced-pom.xml
+.classpath
+.project
+.settings
