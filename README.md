@@ -1,6 +1,6 @@
 # dropwizard-websockets
 
-A simple application demonstrating a dropwizard app with web socket support
+A simple application demonstrating a dropwizard app with web socket support provided by Atmosphere
 
 ## To use
 
