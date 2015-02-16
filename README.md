@@ -10,4 +10,4 @@ A simple application demonstrating a dropwizard app with web socket support prov
 * install npm
 * run `npm install wscat -g`
 * run `wscat -c "ws://127.0.0.1:8080/chat"` (on multiple machines / terminals to have some multi-person-chat-fun)
-* get chatty - `{"author":"Matt", "message":"This is amazeballs}`
+* get chatty - `{"author":"Cyril", "message":"Hello world!}`
